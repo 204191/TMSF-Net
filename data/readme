@@ -11,3 +11,5 @@ Daily precipitation data were obtained from the CHM_PRE V2 dataset and are avail
 Air-temperature data were obtained from the China Meteorological Forcing Dataset v2.0 and are available at [https://doi.org/10.11888/Atmos.tpdc.302088](https://doi.org/10.11888/Atmos.tpdc.302088).
 
 Daily surface net radiation data were obtained from the Global Land Surface Satellite (GLASS) All-Wave Net Radiation product, available through the GLASS data portal at [https://glass.hku.hk/](https://glass.hku.hk/).
+
+The complete processed dataset used for model training and evaluation will be publicly released in this directory upon acceptance of the manuscript. The original data sources listed above are publicly accessible; the dataset provided here was derived from these sources through the processing steps described in the paper.
